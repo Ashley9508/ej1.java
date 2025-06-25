@@ -7,6 +7,10 @@ public class ej1 {
         System.out.println("Hola, " + nombre + "!");
         System.out.println("La multiplicación de " + a + "*" + b + " es: " + mul);
         System.out.println("Ashley Alexandra Obregón Osorio 2025-1020U");
+<<<<<<< HEAD
         System.out.println("Bye");
+=======
+        System.out.println("Holaaa profe");
+>>>>>>> feature-saludoprofe
     }
 }
