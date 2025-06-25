@@ -1,0 +1,23 @@
+# Ignorar carpetas de compilación de Java
+/bin/
+/build/
+*.class
+
+# Ignorar configuraciones de VS Code
+.vscode/
+
+# Archivos de sistema comunes de Windows
+Thumbs.db
+Desktop.ini
+
+# Archivos de macOS por si lo abrís desde otro sistema
+.DS_Store
+
+# Ignorar archivos de OneDrive si estás en esa carpeta
+~$*
+*.tmp
+
+# Ignorar archivos temporales
+*.log
+*.swp
+*.swo
